@@ -1,2 +1,2 @@
 # introduction-to-git
-title: Chaitra's Git page
+title: My Git page
